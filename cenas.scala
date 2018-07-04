@@ -1,6 +1,8 @@
 object Thang2 {
   
-  private var pp = "xpto"  
+  private def zzz = {
+    var x = 2
+  }
   val bla = 666
   val blaa = 667
   val blaaa = 668
