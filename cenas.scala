@@ -1,4 +1,4 @@
-
+object Thang {
 val bla = 666
 val blaa = 667
 val blaaa = 668
@@ -18,3 +18,4 @@ val bleeeeee = 681
 val bleeeeeee = 682
 val bleeeeeeee = 683
 var xpto = 554
+}
